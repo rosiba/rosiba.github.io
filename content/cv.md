@@ -10,6 +10,7 @@ Rojhat Sinan Balka, self-taught software engineer with expertise in backend deve
 **Location**: Istanbul, Turkey
 
 ## Experience
+---  
 ### Medipol Health Group
 ERP Developer  
 (2024-Present)
@@ -40,8 +41,6 @@ Lead Software Engineer
         - Redis
         - AWS ECS and EC2
 
-
----
 ### Kondukto
 Backend Developer  
 (2018-2021)
