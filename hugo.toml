@@ -44,7 +44,7 @@ paginate     = 10
     keywords = "homepage, blog"
 
     [languages.en.params.logo]
-      logoText = "rojhat sinan balka"
+      logoText = "[rojhat-sinan-balka]$"
       logoHomeLink = "/"
     # or
     #
