@@ -26,7 +26,6 @@ Self-taught software engineer with expertise in backend development of microserv
     - *Containerization:* Kubernetes, Docker
     - *CI/CD:* Jenkins, Travis, Github Actions, ArgoCD
     - *IoC:* Terraform
-  - **Languages:** English, Turkish
 
 ## Experience
 ---  

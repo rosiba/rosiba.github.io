@@ -20,7 +20,7 @@ paginate     = 10
   enableSharingButtons = true
   
   # Show a global language switcher in the navigation bar
-  enableGlobalLanguageMenu = true
+  enableGlobalLanguageMenu = false
 
   # Metadata mostly used in document's head
   description = "Rojhat Sinan Balka personal website"
