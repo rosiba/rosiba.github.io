@@ -55,5 +55,3 @@ if (themeToggle) {
 } else {
   localStorage.removeItem("theme");
 }
-// TODO: Force set dark theme
-localStorage.setItem("theme", "dark");

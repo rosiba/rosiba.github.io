@@ -43,8 +43,8 @@ body {
   }
 
   @media (prefers-color-scheme: light) {
-    background-color: $dark-background;
-    color: $dark-color;
+    background-color: $light-background;
+    color: $light-color;
   }
 
   [data-theme=dark] & {
@@ -53,8 +53,8 @@ body {
   }
 
   [data-theme=light] & {
-    background-color: $dark-background;
-    color: $dark-color;
+    background-color: $light-background;
+    color: $light-color;
   }
 }
 
