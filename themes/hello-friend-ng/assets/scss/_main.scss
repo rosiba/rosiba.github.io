@@ -29,9 +29,11 @@ body {
   min-height: 100vh;
   flex-direction: column;
 
+  // TECH DEBT
+  // TODO: Use a plugin to switch between themes, instead of hardcoded value
   // Default
-  background-color: $light-background;
-  color: $light-color;
+  background-color: $dark-background;
+  color: $dark-color;
 
   @media #{$media-size-phone} {
     font-size: 1rem;
@@ -43,8 +45,8 @@ body {
   }
 
   @media (prefers-color-scheme: light) {
-    background-color: $light-background;
-    color: $light-color;
+    background-color: $dark-background;
+    color: $dark-color;
   }
 
   [data-theme=dark] & {
