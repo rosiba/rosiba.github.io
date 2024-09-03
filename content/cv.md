@@ -1,13 +1,7 @@
-## Software Engineer
+# Rojhat Sinan Balka | Software Engineer
+#### rojbalka@gmail.com | https://linkedin.com/in/roj | https://github.com/rosiba | Istanbul, Turkey
 ## Summary
-Rojhat Sinan Balka, self-taught software engineer with expertise in backend development of Go microservices and gRPC communication. 
-## Contact
----
-**Name**: Rojhat Sinan Balka  
-**Email**: rojbalka@gmail.com  
-**LinkedIn**: https://linkedin.com/in/roj  
-**Github**: https://github.com/rosiba  
-**Location**: Istanbul, Turkey
+Self-taught software engineer with expertise in backend development of Go microservices and gRPC communication. 
 
 ## Experience
 ---  
@@ -19,10 +13,11 @@ Rojhat Sinan Balka, self-taught software engineer with expertise in backend deve
 ### Lead Software Engineer
 **Symphony** *(2022-2023)*
 
-- Led 6 person team to design, develop and deliver software.
-- Acted as a software architect of client projects.
-- Onboarded new team members and employees.
-- Participated in business development meetings, improved employee performance and customer 
+  - Led 6 person team to design, develop and deliver software.
+  - Acted as a software architect of client projects.
+  - Onboarded new team members and employees.
+  - Participated in business development meetings, improved employee performance and customer 
+
 #### Projects
 - **Data Warehouse and Analytics for GIS** (Geographical Information System)
     - Designed project architecture and implemented microservices.
@@ -39,8 +34,11 @@ Rojhat Sinan Balka, self-taught software engineer with expertise in backend deve
         - Redis
         - AWS ECS and EC2
 
-### **Backend Developer**  
+### Backend Developer
 **Kondukto** *(2018-2021)*
+  - Developed bla bla
+  - Integrated bla bla
+  - Designed bla bla
 
 #### Projects
 - **Kondukto ASOC** (Application Security Orchestration and Correlation)
