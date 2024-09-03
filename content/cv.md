@@ -12,13 +12,13 @@ Rojhat Sinan Balka, self-taught software engineer with expertise in backend deve
 ## Experience
 ---  
 ### Medipol Health Group
-ERP Developer  
+**ERP Developer**  
 (2024-Present)
 
 - Wrote Oracle SQL queries to generate financial reports.
 - Used Oracle OTBI to generate invetory management analysis. 
 ### Symphony  
-Lead Software Engineer  
+**Lead Software Engineer**  
 (2022-2023)
 
 - Led 6 person team to design, develop and deliver software.
@@ -42,7 +42,7 @@ Lead Software Engineer
         - AWS ECS and EC2
 
 ### Kondukto
-Backend Developer  
+**Backend Developer**  
 (2018-2021)
 
 #### Projects
