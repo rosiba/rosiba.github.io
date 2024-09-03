@@ -25,6 +25,7 @@ paginate     = 10
   # Metadata mostly used in document's head
   description = "Rojhat Sinan Balka personal website"
   images = [""]
+  enableThemeToggle = true
 
 [taxonomies]
     category = "blog"

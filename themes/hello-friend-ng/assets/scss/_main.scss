@@ -29,8 +29,6 @@ body {
   min-height: 100vh;
   flex-direction: column;
 
-  // TECH DEBT
-  // TODO: Use a plugin to switch between themes, instead of hardcoded value
   // Default
   background-color: $dark-background;
   color: $dark-color;
@@ -54,8 +52,6 @@ body {
     color: $dark-color;
   }
 
-  // TECH DEBT
-  // TODO: Use a plugin to switch between themes, instead of hardcoded value
   [data-theme=light] & {
     background-color: $dark-background;
     color: $dark-color;
