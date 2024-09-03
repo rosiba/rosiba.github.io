@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://www.rosiba.net"
 title        = "R. Sinan Balka"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -23,7 +23,7 @@ paginate     = 10
   enableGlobalLanguageMenu = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
+  description = "Rojhat Sinan Balka personal website"
   images = [""]
 
 [taxonomies]
