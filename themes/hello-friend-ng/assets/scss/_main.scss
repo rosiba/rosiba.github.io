@@ -52,9 +52,11 @@ body {
     color: $dark-color;
   }
 
+  // TECH DEBT
+  // TODO: Use a plugin to switch between themes, instead of hardcoded value
   [data-theme=light] & {
-    background-color: $light-background;
-    color: $light-color;
+    background-color: $dark-background;
+    color: $dark-color;
   }
 }
 
