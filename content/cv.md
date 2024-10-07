@@ -1,7 +1,7 @@
 # Rojhat Sinan Balka | Software Engineer
 #### rojbalka@gmail.com | https://linkedin.com/in/roj | https://github.com/rosiba | Istanbul, Turkey
 ## Summary
----  
+---
 Self-taught software engineer with expertise in backend development of microservices and gRPC communication.
 
 ## Skills
@@ -12,7 +12,7 @@ Self-taught software engineer with expertise in backend development of microserv
     - *Markup:* HTML, CSS, Markdown
     - *Query:* SQL, NoSQL, PL/SQL
     - *Spoken:* English, Turkish
-  - **Frameworks:** Echo, go-gin, go-chi, React, Next.js, Tailwind CSS
+  - **Frameworks:**
     - *Go:* Echo, go-gin, go-chi
     - *Javascript:* React, Next.js
     - *CSS:* Tailwind CSS
@@ -21,19 +21,20 @@ Self-taught software engineer with expertise in backend development of microserv
     - *SQL:* PostgreSQL, MySQL, SQLite
     - *NoSQL:* MongoDB, DynamoDB
     - *Cache:* Redis
-  - **Cloud:** AWS, GCP
-  - **DevOps:** 
+  - **Cloud:**
+    - *Platform:* AWS, GCP
+  - **DevOps:**
     - *Containerization:* Kubernetes, Docker
     - *CI/CD:* Jenkins, Travis, Github Actions, ArgoCD
     - *IoC:* Terraform
 
 ## Experience
----  
+---
 ### ERP Developer
 **Medipol Health Group** *(2024-Present)*
 
 - Wrote Oracle PL/SQL queries to generate financial reports.
-- Used Oracle OTBI to generate inventory management reports. 
+- Used Oracle OTBI to generate inventory management reports.
 ### Lead Software Engineer
 **Symphony** *(2022-2023)*
 
@@ -69,7 +70,7 @@ Self-taught software engineer with expertise in backend development of microserv
     - MongoDB
 
 #### Projects
-- **KDT** (CI/CD Friendly CLI application for Kondukto management)  
+- **KDT** (CI/CD Friendly CLI application for Kondukto management)
     - Released Open-Source software.
     - Wrote BASH scripts and DevOps metafiles to automate process.
 - **KONDA** (Windows Agent for Fortify Security Product integrations)
