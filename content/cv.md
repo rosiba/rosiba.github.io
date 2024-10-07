@@ -44,7 +44,7 @@ Self-taught software engineer with expertise in backend development of microserv
   - Acted as software architect of client projects.
   - Onboarded new team members and employees.
   - Participated in business development meetings, improved employee performance and customer satisfaction
-  - #### Projects
+    #### Projects
     - **Data Warehouse and Analytics for GIS** (Geographical Information System)
         - Designed project architecture and implemented microservices.
         - Stack:
@@ -70,7 +70,7 @@ Self-taught software engineer with expertise in backend development of microserv
     - Golang
     - Echo/go-gin
     - MongoDB
-  - #### Projects
+    #### Projects
     - **KDT** (CI/CD Friendly CLI application for Kondukto management)
         - Released Open-Source software.
         - Wrote BASH scripts and DevOps metafiles to automate process.
