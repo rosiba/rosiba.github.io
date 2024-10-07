@@ -70,9 +70,9 @@ Self-taught software engineer with expertise in backend development of microserv
     - Golang
     - Echo/go-gin
     - MongoDB
-- #### Projects
-  - **KDT** (CI/CD Friendly CLI application for Kondukto management)
-      - Released Open-Source software.
-      - Wrote BASH scripts and DevOps metafiles to automate process.
-  - **KONDA** (Windows Agent for Fortify Security Product integrations)
-      - Developed the agent and implemented integration features
+  - #### Projects
+    - **KDT** (CI/CD Friendly CLI application for Kondukto management)
+        - Released Open-Source software.
+        - Wrote BASH scripts and DevOps metafiles to automate process.
+    - **KONDA** (Windows Agent for Fortify Security Product integrations)
+        - Developed the agent and implemented integration features
