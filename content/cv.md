@@ -1,5 +1,5 @@
 # Rojhat Sinan Balka | Software Engineer
-#### rojbalka@gmail.com  https://linkedin.com/in/roj  https://github.com/rosiba  Istanbul, Turkey
+#### rojbalka@gmail.com . https://linkedin.com/in/roj - https://github.com/rosiba | Istanbul, Turkey
 ## Summary
 ---
 Self-taught software engineer with expertise in backend development of microservices and gRPC communication.
@@ -25,7 +25,7 @@ Self-taught software engineer with expertise in backend development of microserv
     - *Platform:* AWS, GCP
   - **DevOps:**
     - *Containerization:* Kubernetes, Docker
-    - *CI/CD:* Jenkins, Travis, Github Actions, ArgoCD
+    - *CI/CD:* Jenkins, Travis, GitHub Actions, ArgoCD
     - *IoC:* Terraform
 
 ## Experience
@@ -64,8 +64,6 @@ Self-taught software engineer with expertise in backend development of microserv
 ### Backend Developer
 **Kondukto** *(2018-2021)*
   - Developed and implemented backend services, using Go
-  - Integrated bla bla
-  - Designed bla bla
   - Stack:
     - Golang
     - Echo/go-gin

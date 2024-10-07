@@ -101,6 +101,7 @@ h3 {
 
 h4 {
     margin-top: 0.5em;
+    margin-bottom: 0.5em;
     font-size: 0.9rem;
 }
 
@@ -231,6 +232,14 @@ strong {
     [data-theme="light"] & {
         color: black;
     }
+}
+
+ul li strong {
+    line-height: 2em;
+}
+
+ul li h4 {
+    font-size: 1.5em;
 }
 
 code {
