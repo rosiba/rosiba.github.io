@@ -1,5 +1,5 @@
 # Rojhat Sinan Balka | Software Engineer
-#### rojbalka@gmail.com . https://linkedin.com/in/roj . https://github.com/rosiba . Istanbul, Turkey
+#### rojbalka@gmail.com . https://linkedin.com/in/roj . https://github.com/rosiba Istanbul, Turkey
 ## Summary
 ---
 Self-taught software engineer with expertise in backend development of microservices and gRPC communication.
